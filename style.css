@@ -6,6 +6,17 @@ body {
     text-align: center;
 }
 
+.banner {
+    background-color: blueviolet;
+    color: white;
+    padding: 10px;
+    font-size: 35px;
+}
+
+nav {
+    font-size: 25px;
+    padding: 0px;
+}
 
 /*span {
     display: inline-block;
