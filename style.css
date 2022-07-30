@@ -7,16 +7,32 @@ body {
 }
 
 .banner {
-    background-color: blueviolet;
+    background-color: purple;
     color: white;
-    padding: 10px;
-    font-size: 35px;
+    padding: 5px;
+}
+
+h1 {
+    font-size: 50px;
 }
 
 nav {
     font-size: 25px;
+    margin: 0px;
+}
+
+li {
+    display: inline-block;
+    padding: 20px;
+    margin: 0px;
+    border-style:ridge;
+}
+
+ul {
+    font-size: 20px;
     padding: 0px;
 }
+
 
 /*span {
     display: inline-block;
